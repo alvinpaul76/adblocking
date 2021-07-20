@@ -33,6 +33,8 @@ z-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 fls-fe.amazon.com
 fls-fe.amazon.sg
 mads.amazon.com
+aan.amazon.com
+aax-fe.amazon-adsystem.com
 
 # Begin Unbreak whitelist.
 
